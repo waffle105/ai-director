@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI-director"
+  short_description: "AI短视频导演制片准备包生成器"
+  default_prompt: "Use $ai-director to create a complete AI short-video preparation package and pre-video image assets for my theme."
+
+policy:
+  allow_implicit_invocation: true
